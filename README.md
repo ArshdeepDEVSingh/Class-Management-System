@@ -18,18 +18,8 @@ Ensure you have the following installed on your system:
 
 ## Installation
 
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/yourusername/ClassManagementSystem.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd ClassManagementSystem
-    ```
-3. Install any required dependencies (if any):
-    ```bash
-    pip install -r requirements.txt
-    ```
+go to issues and just download it.
+
    *Note: This project does not have additional dependencies apart from Tkinter, which comes pre-installed with Python.*
 
 ## Usage
