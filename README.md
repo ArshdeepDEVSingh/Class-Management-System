@@ -18,7 +18,7 @@ Ensure you have the following installed on your system:
 
 ## Installation
 
-Go to <b>Releases<b> and just <b>Download<b> it.
+Go to <b>Releases</b> and just <b>Download</b> it.
 
    *Note: This project does not have additional dependencies apart from Tkinter, which comes pre-installed with Python.*
 
