@@ -24,14 +24,8 @@ go to issues and just download it.
 
 ## Usage
 
-1. Run the main script:
+1. Run the main file:
     ```bash
-    python app.py
+    app.exe
     ```
 2. Use the GUI to add, edit, or remove student data.
-
-## Building an Executable (Optional)
-
-To create a standalone executable using PyInstaller:
-```bash
-pyinstaller --onefile --add-data "student_data.json;." app.py
