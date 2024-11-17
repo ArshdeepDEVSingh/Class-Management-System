@@ -1,2 +1,47 @@
-# Class-Management-System
-It is a Python Project which uses Basic Python File Handling for major functions, Tkinter for GUI and JSON for database.
+# Class Management System
+
+This project is a minimalistic and interactive **Class Management System** built using Python and Tkinter for graphical user interfaces. The project allows for adding, editing, and managing student data stored in a JSON database.
+
+## Features
+
+- Add new student data, including name, roll number, mobile number, date of birth, and more.
+- Edit or remove existing student data.
+- GUI built using Tkinter for an intuitive user experience.
+- Data storage and retrieval using a JSON database.
+
+## Prerequisites
+
+Ensure you have the following installed on your system:
+- Python 3.x
+- Tkinter (included by default with Python installations)
+- PyInstaller (optional, if creating an executable)
+
+## Installation
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/yourusername/ClassManagementSystem.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd ClassManagementSystem
+    ```
+3. Install any required dependencies (if any):
+    ```bash
+    pip install -r requirements.txt
+    ```
+   *Note: This project does not have additional dependencies apart from Tkinter, which comes pre-installed with Python.*
+
+## Usage
+
+1. Run the main script:
+    ```bash
+    python app.py
+    ```
+2. Use the GUI to add, edit, or remove student data.
+
+## Building an Executable (Optional)
+
+To create a standalone executable using PyInstaller:
+```bash
+pyinstaller --onefile --add-data "student_data.json;." app.py
