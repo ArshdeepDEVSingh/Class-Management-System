@@ -12,9 +12,9 @@ This project is a minimalistic and interactive **Class Management System** built
 ## Prerequisites
 
 Ensure you have the following installed on your system:
-- Python 3.x
+- Python 3.12 (majorly file handling)
 - Tkinter (included by default with Python installations)
-- PyInstaller (optional, if creating an executable)
+- PyInstaller (for creating an executable)
 
 ## Installation
 
