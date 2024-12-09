@@ -11,7 +11,7 @@ This project is a minimalistic and interactive **Class Management System** built
 
 ## Prerequisites
 
-Ensure you have the following installed on your system:
+Program use following, no need to be downloaded on your system:
 - Python 3.12 (majorly file handling)
 - Tkinter (included by default with Python installations)
 - PyInstaller (for creating an executable)
